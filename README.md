@@ -1,6 +1,6 @@
-# ManageTrack Pro
+# ServiceSync Manager
 
-ManageTrack Pro is a robust management system designed to streamline and optimize the way you handle various administrative tasks within an organization. This comprehensive toolset encompasses three main modules:
+ServiceSync Manager is a robust management system designed to streamline and optimize the way you handle various administrative tasks within an organization. This comprehensive toolset encompasses three main modules:
 
 ## Features
 
